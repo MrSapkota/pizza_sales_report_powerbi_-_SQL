@@ -1,12 +1,12 @@
 # pizza_sales_report_powerbi_-_SQL
 
-Pizza Sales Analysis Report
+**Pizza Sales Analysis Report**
 
-Overview
+**Overview**
 
 This report analyzes pizza sales from January to December, highlighting key trends, performance metrics, and actionable insights. The findings are based on two dashboards: the primary Pizza Sales Report and the supplementary Best/Worst Sellers dashboard.
 
-Key Metrics from the Pizza Sales Report
+**Key Metrics from the Pizza Sales Report**
 
 Average Order Value: 1.00
 
@@ -18,7 +18,7 @@ Total Pizzas Sold: 50,000
 
 Total Revenue: $817.86K
 
-Insights from the Pizza Sales Report
+**Insights from the Pizza Sales Report**
 
 Busiest Days & Times:
 
@@ -60,7 +60,7 @@ Regular: 21.77%.
 
 X-Large and XX-Large combined: 1.72%.
 
-Insights from the Best/Worst Sellers Dashboard
+**Insights from the Best/Worst Sellers Dashboard**
 
 Best Pizza Sellers:
 
@@ -78,7 +78,7 @@ Chicken category pizzas underperform relative to others, particularly in medium 
 
 Sales of these items decline sharply during weekdays, especially on Tuesdays.
 
-Recommendations
+**Recommendations**
 
 Boost Weekend Sales:
 
@@ -98,7 +98,7 @@ Inventory and Staffing Optimization:
 
 Align inventory levels and staff schedules with peak times to meet demand efficiently, especially on weekends and during July and January.
 
-Conclusion
+**Conclusion**
 
 This analysis provides actionable insights to enhance pizza sales performance. The "Classic" category and large-sized pizzas dominate sales, while certain low-performing items present opportunities for growth. By leveraging trends from the busiest times and addressing weaknesses in the worst sellers, the business can optimize revenue and customer satisfaction.
 
